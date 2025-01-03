@@ -1,0 +1,13 @@
+[
+  {
+    "name": "bikefy",
+    "description": "Plataforma de Gestión para Talleres de Bicicleta",
+    "image": "/assets/images/projects/bikefy.png"
+  },
+  {
+    "name": "Mis Notas",
+    "description": "Gestor de Calificaciones en Línea",
+    "image": "/assets/images/projects/mis-notas.png",
+    "url": "https://mn.alvaroloyola.works/"
+  }
+]

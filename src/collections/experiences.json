@@ -1,0 +1,23 @@
+[
+  {
+    "dates": "Enero 2025 · Actualidad",
+    "role": "Practicante Quality Assurance",
+    "company": "Factoring Security",
+    "description": "Ejecuto pruebas y aseguro la calidad del proyecto de cambio de CORE.",
+    "logo": "/assets/images/experiences/fs.ico"
+  },
+  {
+    "dates": "Marzo 2024 · Actualidad",
+    "role": "Embajador de Carrera",
+    "company": "Universidad del Bío-Bío",
+    "description": "Realizo talleres prácticos para estudiantes visitantes de enseñanza media.",
+    "logo": "/assets/images/experiences/ubb.ico"
+  },
+  {
+    "dates": "Enero 2024 · Marzo 2024",
+    "role": "Practicante Área Digital",
+    "company": "Municipalidad San Pedro de La Paz",
+    "description": "Identifiqué y modelé procesos para mejorar la eficiencia operativa. Cree un manual para futuros practicantes.",
+    "logo": "/assets/images/experiences/sp.ico"
+  }
+]
