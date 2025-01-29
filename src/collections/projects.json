@@ -2,7 +2,8 @@
   {
     "name": "bikefy",
     "description": "Plataforma de Gestión para Talleres de Bicicleta",
-    "image": "/assets/images/projects/bikefy.png"
+    "image": "/assets/images/projects/bikefy.png",
+    "url": "https://bikefy.vercel.app/"
   },
   {
     "name": "Mis Notas",
